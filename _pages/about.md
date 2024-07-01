@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Candidate at UNC Charlotte. [contact](mailto:jduran4@charlotte.edu)
+subtitle: Doctoral Candidate at UNC Charlotte. <p><a href="mailto:jduran4@charlotte.edu">Contact</a></p>
+
 
 profile:
   align: right
