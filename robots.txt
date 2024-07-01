@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jordan-duran.github.io/al-folio/sitemap.xml
+Sitemap: https://jordan-duran.github.io/sitemap.xml
