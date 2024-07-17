@@ -1,12 +1,15 @@
-- title: General Information
+- title: Personal Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Jordan M. Duran
+    - name: Affiliation
+      value: Doctoral Candidate, UNC Charlotte
+    - name: Email
+      value: jduran4@charlotte.edu
+    - name: Summary
+      value: I am a Ph.D. Candidate in Organizational Science at UNC Charlotte. My research focuses on the intersection of emerging technologies and organzing, especially related to issues of ethics, identity, and membership.
+
 
 - title: Education
   type: time_table
