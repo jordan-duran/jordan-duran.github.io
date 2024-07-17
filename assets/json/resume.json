@@ -50,7 +50,7 @@
     {
       "title": "UNC Charlotte Graduate Summer Fellowship",
       "date": "05-2024",
-      "awarder": "UNC Charlotte",
+      "awarder": "The Graduate School at UNC Charlotte",
       "url": "",
       "summary": "The Graduate School Summer Fellowship Award is a competitive grant to provide support for dissertation research during the summer. Projects are reviewed based on their novelty and significance."
     }
@@ -82,38 +82,31 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Organizational Communication",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Sensemaking",
+        "Membership & Identity",
+        "Ethics",
       ]
-    }
-  ],
-  "references": [
+    }, 
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Technology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Ethics of Artificial Intelligence",
+        "Virtuality",
+        "Digital Platforms",
+      ]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Research",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Qualitative Methods",
+        "Text Mining & NLP",
+        "Social Media",
+      ]
     }
   ]
 }
