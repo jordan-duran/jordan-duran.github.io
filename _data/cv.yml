@@ -14,22 +14,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Organizational Science
+      institution: The University of North Carolina at Charlotte
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Dissertation - Ethical Sensemaking in the AI Assemblage
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Cliff Scott, Chair.
+            - Anita Blanchard, Camille Endacott, Scott Tonidandel 
+    - title: Bachelor of Science in Applied Sociology
+      institution: Texas State University
+      year: 2018
 
 - title: Experience
   type: time_table
