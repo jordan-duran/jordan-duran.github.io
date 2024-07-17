@@ -22,36 +22,13 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "The University of North Carolina at Charlotte",
-      "location": "Charlotte, North Carolina, USA",
-      "url": "",
-      "area": "Organizational Science",
-      "studyType": "PhD",
+      "location": "Charlotte, North Carolina",
+      "url": "https://orgscience.charlotte.edu",
+      "area": "",
+      "studyType": "PhD in Organizational Science",
       "startDate": "",
       "endDate": "",
       "score": "",
@@ -59,10 +36,10 @@
     },
     {
       "institution": "Texas State University",
-      "location": "San Marcos, Texas, USA",
-      "url": "",
-      "area": "Sociology",
-      "studyType": "BA",
+      "location": "San Marcos, Texas",
+      "url": "https://www.txst.edu",
+      "area": "",
+      "studyType": "B.S. in Applied Sociology",
       "startDate": "",
       "endDate": "",
       "score": "",
@@ -71,11 +48,11 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "UNC Charlotte Graduate Summer Fellowship",
+      "date": "05-2024",
+      "awarder": "UNC Charlotte",
       "url": "",
-      "summary": ""
+      "summary": "The Graduate School Summer Fellowship Award is a competitive grant to provide support for dissertation research during the summer. Projects are reviewed based on their novelty and significance."
     }
   ],
   "certificates": [
@@ -86,48 +63,21 @@
       "publisher": "Western Journal of Communication",
       "releaseDate": "07-09-2023",
       "url": "https://doi.org/10.1080/10570314.2023.2252788",
-      "summary": ""
+      "summary": "The companies in Big Tech (Alphabet, Amazon, Apple, Meta, Microsoft) increasingly rely on contract workers, not only as suppliers but as contributors who fulfill key organizational functions without formal employment. To understand contractors’ communicative construction of their organizational membership, we analyzed contract workers’ descriptions of membership negotiation in Big Tech using crowdsourced company reviews (n = 500). Contract workers noted their positions enhanced their career development but also described being constrained in negotiating full inclusion within organizations, influencing work processes, and changing their membership status. We discuss the findings’ implications for understanding and practicing membership negotiation in nonstandard work arrangements."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Electronic Communication",
+      "publisher": "Oxford Research Encyclopedia of Psychology",
+      "releaseDate": "18-10-2023",
+      "url": "https://doi.org/10.1093/acrefore/9780190236557.013.283",
+      "summary": "Electronic communication, encompassing email, social media, and artificial intelligence, profoundly impacts individuals, their relationships, personal identity, group affiliation, and community functioning. As new communication technologies continue to emerge, it is crucial for social psychologists to study the positive and negative effects of electronic communication on people."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "The discursive construction of risk in gig work",
+      "publisher": "Organizational Risk Management",
+      "releaseDate": "01-10-2022",
+      "url": "https://doi.org/10.1515/9783110670202-011",
+      "summary": "The gig economy has disrupted traditional working arrangements by introducing independent, hyper-flexible, short-term jobs with few worker-organization communication channels, leading gig workers to rely on virtual communities for shared interpretations and coping strategies due to limited face-to-face interactions. This chapter examines the unique risk-related dynamics of the gig economy, proposes a new theoretical framework, and suggests directions for future research on occupational safety and virtual communities in this context."
     }
   ],
   "interests": [
