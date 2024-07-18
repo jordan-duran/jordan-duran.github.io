@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Contact": {
     "name": "Jordan M. Duran",
     "label": "",
     "image": "",
@@ -25,9 +25,9 @@
   "education": [
     {
       "institution": "The University of North Carolina at Charlotte",
-      "location": "Charlotte, North Carolina",
+      "location": "",
       "url": "https://orgscience.charlotte.edu",
-      "area": "",
+      "area": "Doctoral Candidate",
       "studyType": "PhD in Organizational Science",
       "startDate": "",
       "endDate": "",
@@ -36,7 +36,7 @@
     },
     {
       "institution": "Texas State University",
-      "location": "San Marcos, Texas",
+      "location": "",
       "url": "https://www.txst.edu",
       "area": "",
       "studyType": "B.S. in Applied Sociology",
@@ -63,7 +63,7 @@
       "publisher": "Western Journal of Communication",
       "releaseDate": "07-09-2023",
       "url": "https://doi.org/10.1080/10570314.2023.2252788",
-      "summary": "The companies in Big Tech (Alphabet, Amazon, Apple, Meta, Microsoft) increasingly rely on contract workers, not only as suppliers but as contributors who fulfill key organizational functions without formal employment. To understand contractors’ communicative construction of their organizational membership, we analyzed contract workers’ descriptions of membership negotiation in Big Tech using crowdsourced company reviews (n = 500). Contract workers noted their positions enhanced their career development but also described being constrained in negotiating full inclusion within organizations, influencing work processes, and changing their membership status. We discuss the findings’ implications for understanding and practicing membership negotiation in nonstandard work arrangements."
+      "summary": "Big Tech companies increasingly use contract workers for key roles, enhancing their careers but limiting their influence and inclusion within the organization. Analysis of 500 crowdsourced reviews reveals these workers struggle with membership negotiation, impacting their ability to fully integrate and influence organizational processes."
     },
     {
       "name": "Electronic Communication",
