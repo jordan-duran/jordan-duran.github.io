@@ -1,5 +1,5 @@
 {
-  "Contact": {
+  "Basics": {
     "name": "Jordan M. Duran",
     "label": "",
     "image": "",
@@ -25,7 +25,6 @@
   "education": [
     {
       "institution": "The University of North Carolina at Charlotte",
-      "location": "",
       "url": "https://orgscience.charlotte.edu",
       "area": "Doctoral Candidate",
       "studyType": "PhD in Organizational Science",
@@ -36,7 +35,6 @@
     },
     {
       "institution": "Texas State University",
-      "location": "",
       "url": "https://www.txst.edu",
       "area": "",
       "studyType": "B.S. in Applied Sociology",
